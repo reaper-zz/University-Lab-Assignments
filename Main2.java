@@ -3,5 +3,7 @@ public class Main2 {
         System.out.println("Hello, This is Main2.");
                 System.out.println("Hello, This is from Branch 1.");
         int x = 5;
+        int y = 10;
+
     }
 }
