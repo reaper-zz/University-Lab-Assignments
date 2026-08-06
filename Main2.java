@@ -5,7 +5,7 @@ public class Main2 {
         int x = 5;
         int y = 10;
 
-        System.out.println("x: " + x + ", y : " + y);
 
+        
     }
 }
